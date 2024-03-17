@@ -33,6 +33,17 @@ Follow these steps to control the brushless motor with different modes:
 3. Connect the LED to the relay module to indicate the motor's operation mode.
 4. Write code to control the relay module and LED.
 
+## To control the brushless motor you need:
+
+### To control the movement:
+
+![screen-gif](https://github.com/ItsRawanMoha/Brushless_Motor/blob/main/move.png)
+
+### For the base:
+
+![screen-gif](https://github.com/ItsRawanMoha/Brushless_Motor/blob/main/base.png)
+
+
 ## Connection
 
 The specific wiring connections depend on the relay module, LED, and microcontroller used. Refer to the datasheets and documentation for each component for detailed wiring instructions.
@@ -40,6 +51,10 @@ The specific wiring connections depend on the relay module, LED, and microcontro
 ### Relay with LED
 
 ![screen-gif](https://github.com/ItsRawanMoha/Brushless_Motor/blob/main/rl.jpeg)
+
+### Brushless Motor
+
+![screen-gif](https://github.com/ItsRawanMoha/Brushless_Motor/blob/main/phase%26hall.png)
 
 ### Forward burshless motor
 
