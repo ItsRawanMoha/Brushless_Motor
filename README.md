@@ -2,11 +2,11 @@
 
 <img src="https://github.com/ItsRawanMoha/Brushless_Motor/blob/main/Relay.jpg" alt="Alt text" width="400" height="400">
 
-This project demonstrates how to control a brushless motor using a relay with an LED indicator and three different operational modes: forward, backward, and auto.
+This task demonstrates how to control a brushless motor using a relay with an LED indicator and three different operational modes: forward, backward, and auto.
 
 ## Introduction
 
-Brushless motors are widely used in various applications due to their efficiency, reliability, and high power-to-weight ratio. This project provides examples of controlling a brushless motor using a relay with an LED indicator and implementing different operating modes.
+Brushless motors are widely used in various applications due to their efficiency, reliability, and high power-to-weight ratio. This task provides examples of controlling a brushless motor using a relay with an LED indicator and implementing different operating modes.
 
 ![screen-gif](https://github.com/ItsRawanMoha/Brushless_Motor/blob/main/Picture1.png)
 
